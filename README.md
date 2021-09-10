@@ -4,6 +4,8 @@ Meteo App
 
 Design a weather application (Dart, Flutter) to display the weather data according to your localization (temperature, humidity, wind speed, visibility) with the OpenWeatherMap API.
 
+(main code : /lib)
+
 https://danluu.fr/meteo
 
 ## Getting Started
